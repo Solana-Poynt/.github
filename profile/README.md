@@ -1,62 +1,41 @@
-## Hi there 👋 Welcome to Poynt. 
-# Poynt: Subsidizing Commute Costs with In-Transit Advertising
+# Poynt: Building Attention Economy for Businesses
 
-Poynt is a product that seamlessly blends ride-hailing with in-transit advertising, built on the Solana blockchain. We offer a unique solution that reduces commute costs for passengers through optional ad viewing, creating a win-win scenario for riders, drivers, and advertisers.
+Poynt transforms passive ad viewing into active value creation for both brands and users. Our platform enables businesses to achieve measurable results through engagement-based advertising, while rewarding users with real value for their attention and actions.
 
-## 🚀 What is Poynt?
+## What Poynt Solves
 
-Poynt is not just another ride-hailing app, nor is it a traditional advertising platform. It's a revolutionary concept that:
+The digital advertising industry faces a critical disconnect:
+- Businesses spend billions ($237B estimated for 2025) on ineffective ads
+- Users view 4000+ ads daily with zero benefit
+- 30-40% of viewers find ad interfaces disruptive and annoying
+- Traditional platforms deliver sub-0.1% clickthrough rates
 
-- Allows passengers to optionally watch short ads during their journey
-- Provides immediate discounts on ride fares for ad viewers
-- Utilizes blockchain technology for transparent and efficient transactions
+## Our Approach
 
-## 🌟 Key Features
+Poynt creates a value exchange ecosystem where:
+- Users complete tailored tasks within a TikTok-style scrollable interface
+- Brands receive verifiable, goal-driven interactions
+- Users earn withdrawable/spendable "poynts" for completing tasks
+- Businesses achieve immediate, measurable ROI on campaigns
 
-- **Ad-Supported Rides**: Passengers can choose to watch a short ad to receive a discount on their fare.
-- **Flexible Choices**: Users decide whether to view ads or pay the full fare for each ride.
-- **Blockchain-Powered**: Built on Solana for fast, low-cost transactions.
-- **Embedded Wallet**: Seamless cryptocurrency transactions for users.
-- **Driver Benefits**: Drivers receive a portion of ad revenue, enhancing their earning potential.
-- **Targeted Advertising**: Businesses can reach consumers during their daily commutes.
+## Key Differentiators
 
-## 🛠️ Technology Stack
+- Task-based engagement vs. passive viewing
+- Transparent value exchange model
+- TikTok-style UX driving up to 72% engagement
+- Direct correlation between ad spend and business outcomes
+- Blockchain-powered payment infrastructure ensuring transparency and efficiency
 
-- Solana Mobile Stack
-- Embedded Custom Wallet
-- ON Ramping and OFf Ramping Stacks (Coming Soon)!
-- React Native for cross-platform mobile app development
+## Technology Architecture
 
+Built on a robust stack including Solana blockchain for secure, efficient transactions:
+- Engagement Engine: Manages task creation, matching, and verification
+- Rewards Service: Handles point distribution, conversion, and wallet management
+- Analytics Dashboard: Provides real-time campaign performance insights
+- User Interface: Delivers a familiar, scroll-friendly experience
 
-## 🏗️ Architecture
+## Our Roadmap
 
-Poynt's architecture is designed for scalability and efficiency:
-
-1. Ride Service: Manages ride requests, matching, and routing
-2. Ad Service: Handles ad delivery, targeting, and tracking
-3. Payment Service: Processes fare calculations, payments, and manages user wallets
-4. User Service: Manages user profiles, preferences, and authentication
-5. Analytics Service: Provides insights on platform usage, ad performance, and user behavior
-
-## 🔧 Setup and Installation
-- Coming Soon for APK
-
-(Placeholder for setup instructions)
-
-## 🤝 Contributing
-
-We welcome contributions to Poynt! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For any queries or partnership opportunities, please reach out to:
-
-- https://x.com/Dan_1_Alpha
-- https://x.com/sol_poynt
-
-Poynt: Where every ride saves, and every view pays.
-
+- Q1 2025: Beta Launch with core functionality
+- Q2 2025: Growth & Expansion with enhanced features
+- Q2 2025: Poynt Agent Launch enabling more sophisticated engagement models
